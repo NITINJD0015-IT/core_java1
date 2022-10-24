@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="nitin &lt;nitindeshmukhit@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="nitin &lt;nitindeshmukhit@gmail.com&gt;"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/nitindeshmuk08/GitDemoProjectv1.git"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="F:\core java\GitDemoProjectV1\.git">
+			<item value="false"/>
+			<item value="nitin &lt;nitindeshmukhit@gmail.com&gt;"/>
+			<item value="first commit"/>
+			<item value="nitin &lt;nitindeshmukhit@gmail.com&gt;"/>
+			<item value="6ca82b4ba75dae77ca71fd0f7524a93a7b15fe1b"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>
